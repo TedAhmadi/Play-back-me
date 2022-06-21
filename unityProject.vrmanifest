@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.piano_leap_motion_viveeye_tracker.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Unity_Project\\Piano_Leap_Motion_Vive-Eye_Tracker4\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Piano_Leap_Motion_Vive-Eye_Tracker [Testing]"
+        }
+      }
+    }
+  ]
+}
